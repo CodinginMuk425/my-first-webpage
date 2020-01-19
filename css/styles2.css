@@ -5,3 +5,13 @@ h1 {
 body {
     background-color: #b3d7ff;
 }
+.topic {
+    color: red;
+    font-family: italic;
+}
+.unimportant {
+    color: blue;
+}
+.important {
+    color: red;
+}
